@@ -30,6 +30,7 @@ To answer these questions using Python, you will need to write a Python script. 
     new_york_city.csv
     washington.csv
 
+All the data can be download under the link: https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip
 ### Credits
 We'd love help writing audits, fixing bugs, and making the example more useful!
 https://github.com/tYin666/pdsnd_github.git
