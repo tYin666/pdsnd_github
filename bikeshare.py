@@ -124,7 +124,13 @@ def load_data(city, month, day):
 
 
 def time_stats(df):
-    """Displays statistics on the most frequent times of travel."""
+    """
+    Displays statistics on the most frequent times of travel.
+    
+    Args: 
+        df - Pandas DataFrame containing city data filtered by month and day
+    """
+
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     df['Start Time'] = pd.to_datetime(df['Start Time'])
@@ -153,7 +159,12 @@ def time_stats(df):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip."""
+    """
+    Displays statistics on the most popular stations and trip.
+    
+    Args: 
+        df - Pandas DataFrame containing city data filtered by month and day
+    """
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
