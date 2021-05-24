@@ -270,7 +270,7 @@ def display_data(df):
 
 
 def main():
-
+    #set maximal displayed column using the function set_option
     pd.set_option('display.max_columns',200)
     while True:
         city, month, day = get_filters()
