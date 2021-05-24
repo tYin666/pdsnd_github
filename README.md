@@ -31,4 +31,5 @@ To answer these questions using Python, you will need to write a Python script. 
     washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+We'd love help writing audits, fixing bugs, and making the example more useful!
+https://github.com/tYin666/pdsnd_github.git
