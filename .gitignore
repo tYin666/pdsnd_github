@@ -1,1 +1,6 @@
 .github/**
+.vscode/**
+
+# date bank 
+*.csv
+
