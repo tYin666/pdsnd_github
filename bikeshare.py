@@ -233,6 +233,7 @@ def user_stats(df):
 def display_data(df):
      """Displays 5 lines of raw data."""
 
+    # Interact with the user to view the invividual trip data    
      view_option_raw = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
 
      # Assign the start_loc and get the row number 
